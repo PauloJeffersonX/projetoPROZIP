@@ -7,15 +7,16 @@ body {
 }
 
 header, footer {
-    background-color: #004d40; /* Verde escuro */
+    background-color: #004d40; 
     color: #fff;
     text-align: center;
     padding: 1em 0;
 }
 
 nav {
-    background-color: #00796b; /* Verde mais claro */
+    background-color: #00796b;
     padding: 0.5em 0;
+    text-align: center;
 }
 
 nav a {
@@ -28,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #009688; /* Verde ainda mais claro */
+    background-color: #009688;
 }
 
 .container {
@@ -48,7 +49,7 @@ img {
 
 .destaque {
     font-weight: bold;
-    color: #d84315; /* Laranja avermelhado */
+    color: #d84315; 
 }
 
 footer {
