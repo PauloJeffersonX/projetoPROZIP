@@ -42,13 +42,27 @@ nav a:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.conteudo-principal {
+    display: flex;          
+    align-items: flex-start;  
+
+.conteudo-principal img {
+    max-width: 40%;          
+    height: auto;
+    margin-right: 20px;   
+    margin-bottom: 0;     
+}
+
+.conteudo-principal > div { 
+  flex: 1; 
+}
+
 img {
     max-width: 100%;
     height: auto;
     display: block;
     margin: 10px auto;
 }
-
 .destaque {
     font-weight: bold;
     color: #d84315; 
