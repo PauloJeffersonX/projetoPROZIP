@@ -59,3 +59,7 @@ O repositório está organizado para facilitar o aprendizado progressivo, cobrin
 │ ├── vscode_setup.md # Configuração do VS Code.
 │ └── ...
 └── recursos_adicionais.md # Links para recursos úteis.
+
+## Agradecimentos
+
+Agradecemos à PROZ Educação por fornecer esta oportunidade de aprendizado.  Desejamos a todos(as) um ótimo aprendizado!
