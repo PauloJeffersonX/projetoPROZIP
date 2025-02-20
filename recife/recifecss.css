@@ -45,7 +45,7 @@ nav a:hover {
 .conteudo-principal {
     display: flex;          
     align-items: flex-start;  
-
+}
 .conteudo-principal img {
     max-width: 40%;          
     height: auto;
