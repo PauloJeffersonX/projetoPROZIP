@@ -29,36 +29,7 @@ O repositório está organizado para facilitar o aprendizado progressivo, cobrin
 
 *   **Padrões de Código e Boas Práticas:** Introdução a princípios de código limpo, legível e bem estruturado, preparando para o desenvolvimento profissional.
 
-## Estrutura do Repositório
 
-/
-├── README.md # Este arquivo.
-├── conceitos_fundamentais/ # Explicações dos conceitos básicos.
-│ ├── variaveis_tipos.md # Variáveis e Tipos de Dados.
-│ ├── operadores.md # Operadores.
-│ ├── condicionais.md # Estruturas condicionais (if/else).
-│ ├── loops.md # Laços de repetição (for/while).
-│ ├── funcoes.md # Funções e procedimentos.
-│ ├── arrays_dicionarios.md # Arrays e Dicionários.
-│ └── ...
-├── python/ # Exemplos de código em Python.
-│ ├── hello_world.py # Primeiro programa: "Olá Mundo!".
-│ ├── calculadora.py # Calculadora simples.
-│ ├── listas.py # Exemplos de uso de listas.
-│ └── ...
-├── exercicios/ # Exercícios práticos.
-│ ├── exercicios_variaveis.md # Exercícios sobre variáveis.
-│ ├── exercicios_condicionais.md # Exercícios sobre condicionais.
-│ └── ...
-├── projetos/ # Projetos guiados.
-│ ├── adivinha_numero/ # Jogo de adivinhar o número.
-│ ├── lista_tarefas/ # Lista de tarefas simples.
-│ └── ...
-├── ambiente_dev/ # Guia de configuração do ambiente.
-│ ├── python_setup.md # Configuração do Python.
-│ ├── vscode_setup.md # Configuração do VS Code.
-│ └── ...
-└── recursos_adicionais.md # Links para recursos úteis.
 
 ## Agradecimentos
 
